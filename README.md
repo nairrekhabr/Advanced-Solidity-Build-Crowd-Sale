@@ -66,7 +66,7 @@ ii) Deploy & Run PupperCoin Sale Deployer
 
 <img width="1400" alt="9_Deploy PupperCoin Sale Deployer 2021-10-23 at 7 13 24 PM" src="https://user-images.githubusercontent.com/83980061/138578489-21e21419-99c8-436c-8d90-6ce25a426cc7.png">
 
-iii) Deployed CrowdSale Deployer
+iii) Deployed CrowdSale Deployer. Token Addressess are generated.
 
 <img width="1415" alt="11_Deployed CrowdSale Deployer 2021-10-23 at 8 18 03 PM" src="https://user-images.githubusercontent.com/83980061/138578513-c5f8718f-f8be-4f0f-aff0-65e8051be562.png">
 
